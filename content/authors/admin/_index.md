@@ -101,10 +101,6 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Eating New Food
-        description: ''
-        percent: 80
-        icon: "custom/spoonfork"
       - name: Attending Concerts
         description: ''
         percent: 80
